@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CyclicViewDemo</string>
+    <string name="description_01">图片1</string>
+    <string name="description_02">图片2</string>
+    <string name="description_03">图片3</string>
+    <string name="description_04">图片4</string>
+</resources>
